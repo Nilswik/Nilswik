@@ -7,7 +7,7 @@ I just finished my degree in computer engineering and currenly looking for exper
 * 🏘️Lived in Oslo, Sweden
  
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,html,css,github,py,discord,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,html,css,github,py,linux,)](https://skillicons.dev)
 
 
 - 🔭 I’m currently doing a 7.5 Hp course in C#.net

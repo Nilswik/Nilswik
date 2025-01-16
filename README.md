@@ -18,6 +18,8 @@ I just finished my degree in computer engineering and currenly looking for exper
 
 
 
+
+### What im up to at the moment
 - 🔭 I’m currently doing a 7.5 Hp course in C#.net
 - and trying to learn Rust by my self 
 - 🤔 have any questions don't be afraid to either email me or reach out on    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nils-wikstr%C3%B6m-814b04198/). 

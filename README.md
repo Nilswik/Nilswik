@@ -2,7 +2,7 @@
 
 ### Im currently looking for experiance in development 
 * 🗺️I live in Gothenburg sweden
-* 💮rCurrently learning, Rust, C#.net 
+* 💮Currently learning, Rust, C#.net 
 * 🏘️Lived in Oslo, Sweden
 * 
 ### Skills 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently doing a 7.5 Hp course in C#.net
 - and trying to learn Rust by my self 
-- 🤔 have any questions don't be afraid to either email me or reach out on    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nils-wikstr%C3%B6m-814b04198/)
+- 🤔 have any questions don't be afraid to either email me or reach out on    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nils-wikstr%C3%B6m-814b04198/). 
 
 <!--
 **Nilswik/Nilswik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ## Hi there 👋 My name is Nils Wikström 
 
 ### Im currently looking for experiance in development 
+I just finished my degree in computer engineering and currenly looking for experiance 
 * 🗺️I live in Gothenburg sweden
 * 💮Currently learning, Rust, C#.net 
 * 🏘️Lived in Oslo, Sweden

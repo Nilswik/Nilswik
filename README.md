@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+
+### Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vite,html,css,github,py,discord,linux,)](https://skillicons.dev)
 
 <!--

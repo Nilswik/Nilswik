@@ -4,7 +4,7 @@
 I just finished my degree in computer engineering and currenly looking for experiance 
 * 🗺️I live in Gothenburg sweden
 * 💮Currently learning, Rust, C#.net 
-* 🏘️Lived in Oslo, Sweden
+* 🏘️Lived in Sweden, Norway
  
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vite,react,html,css,py,)](https://skillicons.dev)

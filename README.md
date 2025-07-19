@@ -7,7 +7,7 @@ I just finished my degree in computer engineering and currenly looking for exper
 * 🏘️Lived in Sweden, Norway
  
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,react,html,css,py,cpp,C#,Java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,react,html,css,py,cpp,cs,java)](https://skillicons.dev)
 
 
 ### Operating systems

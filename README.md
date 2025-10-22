@@ -2,7 +2,6 @@
 
 
 * 🗺️I live in Gothenburg sweden
-* 💮Currently learning, Rust
 * 🏘️Lived in Sweden, Norway
  
 ### Skills 

@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Nils Wikström 
 
-## Currently studying a master in AI and Automation
+## Currently prusuing a master in AI and Automation
 * 🗺️I live in Gothenburg sweden
 * 💮Currently learning, Rust
 * 🏘️Lived in Sweden, Norway

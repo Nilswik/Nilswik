@@ -5,7 +5,7 @@
 * 🏘️Lived in Sweden, Norway
  
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vite,react,html,css,py,cpp,cs,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,py,cpp,cs,java)](https://skillicons.dev)
 
 ### Operating systems
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)

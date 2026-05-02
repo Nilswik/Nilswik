@@ -15,7 +15,7 @@
 
 
 ### What im up to at the moment
-* Currently prusuing a master in AI and Automation
+* Currently pursuing a master in AI and Automation
 
 - 📫 have any questions don't be afraid to either email me or reach out on    [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nils-wikstr%C3%B6m-814b04198/). 
 
